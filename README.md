@@ -34,7 +34,7 @@
    - Evaluate the models using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
    - Select the best model based on evaluation metrics.
 6. **Model Saving and Loading**:
-   - Save the trained model using [joblib](https://github.com/amrihakim9/car-price-prediction/car_pred.ipynb).
+   - Save the trained model using joblib.
    - Load the saved model and verify its performance on the test data.
 
 ### Conclusion:

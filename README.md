@@ -6,11 +6,7 @@
 3. Save the trained model for future use.
    
 ### Business Problem (SMART Framework):
-1. Specific: Accurately determine car prices.
-2. Measurable: Reduce shipping costs by 15% within 6 months.
-3. Achievable: Increase car sales by 10% within 1 year.
-4. Relevant: Ensure car prices align with the market to enhance competitiveness.
-5. Time-bound: Achieve the target within 1 year.
+To ensure car prices align with the market and enhance competitiveness, I aim to accurately determine car prices, increase car sales by 10%, and reduce shipping costs by 15% within 1 year.
 
 ### Data Source:
 - Dataset from Kaggle: [Car Price Dataset](https://www.kaggle.com/datasets/imgowthamg/car-price/data)
